@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+word: makeup
+correct_guesses: []
+incorrect_guesses:
+- r
+- t
+- "y"
+- h
+attempts_left: 2

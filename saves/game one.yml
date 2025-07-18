@@ -1,0 +1,10 @@
+--- !ruby/object:Game
+word: termination
+correct_guesses:
+- e
+- r
+- m
+- i
+incorrect_guesses:
+- g
+attempts_left: 5

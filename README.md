@@ -31,12 +31,12 @@ The game lets you guess a secret word letter-by-letter with limited attempts. Yo
 ---
 
 ## 📁 Project Structure
-
+``` bash
 hangman/
 ├── hangman.rb # Main game logic
 ├── google-10000-english-no-swears.txt # Dictionary file
 └── saves/ # Auto-created folder for saved games
-
+```
 
 ---
 
